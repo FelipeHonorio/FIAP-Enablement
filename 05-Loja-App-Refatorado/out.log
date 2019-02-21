@@ -1,0 +1,21 @@
+2019-02-20 20:39:55 TRACE TerminalConsulta:21 - EstoqueBO instanciado com sucesso!.
+2019-02-20 20:50:03 WARN  TerminalConsulta:18 - Aplicação Iniciada
+2019-02-20 20:50:03 TRACE TerminalConsulta:21 - EstoqueBO instanciado com sucesso!.
+2019-02-20 20:50:10 DEBUG EstoqueBO:20 - Camiseta Branca Escolhida
+2019-02-20 20:50:10 WARN  TerminalConsulta:41 - Aplicação Finalizada!
+2019-02-20 20:53:11 WARN  TerminalConsulta:18 - Aplicação Iniciada
+2019-02-20 20:53:11 TRACE TerminalConsulta:21 - EstoqueBO instanciado com sucesso!.
+2019-02-20 20:53:15 ERROR EstoqueBO:31 - Produto não encontrado
+2019-02-20 20:53:20 WARN  TerminalConsulta:43 - Aplicação Finalizada!
+2019-02-20 20:53:36 WARN  TerminalConsulta:18 - Aplicação Iniciada
+2019-02-20 20:53:36 TRACE TerminalConsulta:21 - EstoqueBO instanciado com sucesso!.
+2019-02-20 20:53:39 DEBUG EstoqueBO:20 - Camiseta Branca Escolhida
+2019-02-20 20:53:41 DEBUG EstoqueBO:20 - Camiseta Branca Escolhida
+2019-02-20 20:54:39 WARN  TerminalConsulta:18 - Aplicação Iniciada
+2019-02-20 20:54:39 TRACE TerminalConsulta:21 - EstoqueBO instanciado com sucesso!.
+2019-02-20 20:54:42 DEBUG EstoqueBO:20 - Camiseta Branca Escolhida
+2019-02-20 20:54:46 WARN  TerminalConsulta:44 - Aplicação Finalizada!
+2019-02-20 20:54:51 WARN  TerminalConsulta:18 - Aplicação Iniciada
+2019-02-20 20:54:51 TRACE TerminalConsulta:21 - EstoqueBO instanciado com sucesso!.
+2019-02-20 20:54:55 DEBUG EstoqueBO:20 - Camiseta Branca Escolhida
+2019-02-20 20:55:00 ERROR EstoqueBO:31 - Produto não encontrado
